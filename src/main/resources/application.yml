@@ -1,0 +1,11 @@
+server:
+  port: 9001
+
+spring:
+  data:
+    mongodb:
+      name: VINS
+      uri: mongodb+srv://VINS:vins123456789@vins.w832tm6.mongodb.net/VINS?ssl=true&authSource=admin&authMechanism=SCRAM-SHA-1
+  application:
+    name: VINS
+
